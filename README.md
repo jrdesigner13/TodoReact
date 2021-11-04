@@ -1,5 +1,9 @@
-# Getting Started with Create React App
 
+<img width="1193" alt="todoReact" src="https://user-images.githubusercontent.com/38070740/140300666-fc17738a-9bb3-4904-8c16-aad50d4191d1.png">
+# To do React with TypeScript
+Simple project to study using React with TypeScript
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
